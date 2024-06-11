@@ -1,31 +1,31 @@
 * {
-  margin: 1;
-  padding: 1;
-  box-sizing: border-box;
-}
-
-.display {
-  border-style: double;
-  display: grid;
-  align-items: start;
-  justify-content: center;
-  font-family: sans-serif;
-  background-color: #c7c4c4;
-}
-
-.team {
-  border-style: double;
-  padding: 5px;
-  display: grid;
-  justify-content: center;
-  grid-template-columns: repeat(2, 300px);
-  grid-template-rows: repeat(1, 100px);
-  gap: 2x; 
-}
-
-.user {
-  display: grid;
-  align-items:center;
-  justify-content: center;
-  border: 2px solid #c7c4c4;
-}
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+  }
+  
+  .display {
+    border-style: double;
+    display: grid;
+    align-items: start;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: #C7C4C4;
+  }
+  
+  .team {
+    border-style: double;
+    padding: 5px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 300px);
+    grid-template-rows: repeat(1, 100px);
+    gap: 2px;
+  }
+  
+  .user {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #C7C4C4;
+  }

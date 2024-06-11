@@ -2,8 +2,10 @@ import React from 'react'
 
 function Display(props) {
   return (
-    <div className= 'dislpay'>Display</div>
-    <h3>{props.message}</h3>
+    <div className= 'display'>
+      <h3>{props.message}</h3>
+    </div>
+    
   )
 }
 

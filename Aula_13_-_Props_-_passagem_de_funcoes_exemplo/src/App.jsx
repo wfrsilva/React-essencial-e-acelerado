@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+import './app.css'
 import Display from './components/Display'
 import Team from './components/Team'
 
