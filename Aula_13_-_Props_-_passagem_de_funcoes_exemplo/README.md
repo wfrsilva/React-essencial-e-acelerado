@@ -1,8 +1,6 @@
-# React + Vite
+# Aula 13 - Props - passagem de funções, exemplo - React essencial e acelerado
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+> O presente vídeo trata as Props de React, focando na passagem de funções - especificamente, um exemplo de aplicação que usa props. Esclarece como a passagem de funções permite estabelecer um fluxo bidirecional de dados entre componentes ascendentes e descendentes. Corresponde ao conteúdo da seção 4.2, do capítulo 4 do livro 'React essencial e acelerado'.
+[Ricador Pereira - Descrição Aula 13](https://www.youtube.com/watch?v=FgGBzl9kZXw&t=694s&ab_channel=ModelagemOrientadaaObjetoscomUML)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
