@@ -5,7 +5,8 @@
 [Professor Ricardo Pereira e Silva - Descrição Aula 15](https://www.youtube.com/watch?v=17adf88_fe0&ab_channel=ModelagemOrientadaaObjetoscomUML)
 
 ## Tela do App
-![image](https://github.com/wfrsilva/React-essencial-e-acelerado/assets/8933834/f687f481-318b-4346-bf40-17442bbd133e)
+![image](https://github.com/wfrsilva/React-essencial-e-acelerado/assets/8933834/495ba764-6e69-4052-a9b2-20714621daaa)
+
 
 ## Sugestões para versão 2.0
 - V1.1 - \[REFATORADO\] App.jsx - linhas 11 a 17 - ```}else{if(count < 0){```- Poderia refatorar? 
