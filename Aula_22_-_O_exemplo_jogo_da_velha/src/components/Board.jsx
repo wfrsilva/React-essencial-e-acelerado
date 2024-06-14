@@ -1,7 +1,7 @@
 import React from 'react'
 import Position from './Position'
 
-function Board() {
+function Board(props) {
   return (
     <div className='board'>
         <Position id={[0,0]} matrix={props.matrix} onPositionClick={props.onPositionClick} />

@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
 import empty from '../images/empty.gif'
 import red from '../images/red.gif'
-import white from '../images/white.git'
+import white from '../images/white.gif'
 
 function Position(props) {
     const[myImage, setMyImage] = useState(() => {return empty})
@@ -21,8 +21,8 @@ function Position(props) {
     }
 
   return (
-    <div clasName='position'>
-      <img src={myImage} alt="posição"  onclick={handleClick}/>
+    <div className='position'>
+      <img src={myImage} alt="posição"  onClick={handleClick}/>
     </div>
   )
 }
