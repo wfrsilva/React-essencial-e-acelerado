@@ -1,0 +1,34 @@
+*{
+  margin:1;
+  padding:1;
+  box-sizing: border-box;
+}
+
+body{
+  display:grid;
+  align-items:start;
+  justify-content:center;
+  font-family:sans-serif;
+  height: 100vh;
+  background-color:#C7C4C4;
+}
+
+.text{
+  text-align:center;
+}
+
+.board{
+  pading:5px;
+  display:grid;
+  justify-content:center;
+  grid-template-columns:repeat(3,100px);
+  grid-template-rows:repeat(3,100px);
+  gap:2px;
+}
+
+.position{
+  display:grid;
+  align-items:center;
+  justify-content: center;
+  border:2px solid #c7c4c4;
+}
