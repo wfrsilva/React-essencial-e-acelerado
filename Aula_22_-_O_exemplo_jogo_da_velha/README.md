@@ -9,14 +9,23 @@
 [Professor Ricardo Pereira e Silva - Descrição Aula 24](https://www.youtube.com/watch?v=7obIdrXjEVQ&ab_channel=ModelagemOrientadaaObjetoscomUML)
 
 ## Tela do App
-![alt text](image.png)
+![image](https://github.com/wfrsilva/React-essencial-e-acelerado/assets/8933834/5399830e-4158-403b-bef8-3a63732ea3d1)
+
 
 
 ## Adaptações
 Alterações, melhorias e complementos adicionados que não estão presentes na videoaula nem no repositório do professor.
-- Icone jogo-velha.svg
-- Diretorio Documents/
-    - Diagrama Jogo-Velha-Componentes.svg
+- Icone [jogo-velha.svg](https://github.com/wfrsilva/React-essencial-e-acelerado/blob/main/Aula_22_-_O_exemplo_jogo_da_velha/public/jogo-velha.svg)
+- Diretorio [documents](https://github.com/wfrsilva/React-essencial-e-acelerado/tree/main/Aula_22_-_O_exemplo_jogo_da_velha/src/documents)/
+    - Diagrama [Jogo-Velha-Componentes.svg](https://raw.githubusercontent.com/wfrsilva/React-essencial-e-acelerado/7403e80ff1ce9fc7628d0f390765f1bafe1b427b/Aula_22_-_O_exemplo_jogo_da_velha/src/documents/Jogo-Velha-Componentes.svg)
+
+ ### [jogo-velha.svg](https://github.com/wfrsilva/React-essencial-e-acelerado/blob/main/Aula_22_-_O_exemplo_jogo_da_velha/public/jogo-velha.svg)
+ 
+ <img src="https://github.com/wfrsilva/React-essencial-e-acelerado/blob/main/Aula_22_-_O_exemplo_jogo_da_velha/public/jogo-velha.svg" alt="Logo jogo da Velha" width="75" height="75">
+
+### Diagrama [Jogo-Velha-Componentes.svg](https://raw.githubusercontent.com/wfrsilva/React-essencial-e-acelerado/7403e80ff1ce9fc7628d0f390765f1bafe1b427b/Aula_22_-_O_exemplo_jogo_da_velha/src/documents/Jogo-Velha-Componentes.svg)
+
+<img src="https://raw.githubusercontent.com/wfrsilva/React-essencial-e-acelerado/7403e80ff1ce9fc7628d0f390765f1bafe1b427b/Aula_22_-_O_exemplo_jogo_da_velha/src/documents/Jogo-Velha-Componentes.svg" alt="Diagrama Jogo-Velha-Componentes" style="max-width: 100%;">
 
 
 
