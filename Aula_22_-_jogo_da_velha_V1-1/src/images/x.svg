@@ -4,12 +4,12 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 45.000001 45.000001"
+   viewBox="0 0 100 100"
    xml:space="preserve"
    sodipodi:docname="x.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   width="45"
-   height="45"
+   width="100"
+   height="100"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,10 +36,10 @@
    id="g1">
 
 <path
-   d="M 44.68246,9.552892 31.033057,22.54184 44.68246,35.530788 36.547856,44.08368 22.469158,30.687451 8.3904588,44.08368 0.25585493,35.530788 13.905258,22.54184 0.25585493,9.552892 8.3904588,1.011007 22.469158,14.396229 36.547856,1 Z"
+   d="M 85,28.89627 63.493558,50 85,71.10373 72.182854,85 50.000001,63.234542 27.817146,85 15,71.10373 36.506442,50 15,28.89627 27.817146,15.017883 50.000001,36.765458 72.182854,15 Z"
    id="xazul"
    inkscape:label="X azul"
-   style="display:inline;fill:#0000b9;fill-opacity:1;stroke-width:1.10076"
+   style="display:inline;fill:#0000b9;fill-opacity:1;stroke-width:1.76123"
    sodipodi:nodetypes="ccccccccccccc" />
 
 </g></svg>
