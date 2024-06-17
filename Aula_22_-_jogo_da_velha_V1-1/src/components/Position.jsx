@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react'
-import empty from '../images/empty.gif'
+import empty from '../images/empty.svg'
 import red from '../images/o.svg'
 import white from '../images/x.svg'
 
