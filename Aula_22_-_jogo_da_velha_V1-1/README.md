@@ -9,7 +9,8 @@
 [Professor Ricardo Pereira e Silva - Descrição Aula 24](https://www.youtube.com/watch?v=7obIdrXjEVQ&ab_channel=ModelagemOrientadaaObjetoscomUML)
 
 ## Tela do App
-![image](https://github.com/wfrsilva/React-essencial-e-acelerado/assets/8933834/5399830e-4158-403b-bef8-3a63732ea3d1)
+![image](https://github.com/wfrsilva/React-essencial-e-acelerado/assets/8933834/9fed8178-8638-4caa-ac2b-f27e2fdefeb9)
+
 
 
 
@@ -18,6 +19,8 @@ Alterações, melhorias e complementos adicionados que não estão presentes na 
 - Icone [jogo-velha.svg](https://github.com/wfrsilva/React-essencial-e-acelerado/blob/main/Aula_22_-_O_exemplo_jogo_da_velha/public/jogo-velha.svg)
 - Diretorio [documents](https://github.com/wfrsilva/React-essencial-e-acelerado/tree/main/Aula_22_-_O_exemplo_jogo_da_velha/src/documents)/
     - Diagrama [Jogo-Velha-Componentes.svg](https://raw.githubusercontent.com/wfrsilva/React-essencial-e-acelerado/7403e80ff1ce9fc7628d0f390765f1bafe1b427b/Aula_22_-_O_exemplo_jogo_da_velha/src/documents/Jogo-Velha-Componentes.svg)
+ - Aplicação do ```memo```:
+    - Aplicado ```memo``` aos componentes funcionais.
 - Usar ```async/await``` em vez de ```.then()```: Isso torna o código mais fácil de ler e entender.
 - Funções Auxiliares Fora do Componente:
     - As funções ```generateId``` e ```getUserId``` para fora do componente App.
