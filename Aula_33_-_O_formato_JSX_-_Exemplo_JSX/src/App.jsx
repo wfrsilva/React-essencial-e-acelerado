@@ -34,7 +34,7 @@ function App() {
   function insert(anUserName) {
     if (anUserName) {
       if (!users.includes(anUserName)) {
-        const ewArray = [...users, anUserName]
+        const newArray = [...users, anUserName]
         setUsers(newArray)
       }//if
     }//if
